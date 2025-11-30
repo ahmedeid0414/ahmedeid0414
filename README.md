@@ -17,7 +17,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="www.linkedin.com/in/ahmed-eid-6b22752b0" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-eid-6b22752b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/yourgithub" target="_blank">
